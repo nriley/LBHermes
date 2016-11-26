@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>com.alexcrichton.Hermes</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.sabi.LaunchBar.action.HermesStations</string>
+	<key>CFBundleName</key>
+	<string>Hermes Stations</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.alexcrichton.Hermes</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Nicholas Riley</string>
+		<key>LBEmail</key>
+		<string>com-launchbar@sabi.net</string>
+		<key>LBRequirements</key>
+		<string>Hermes 1.3.1 or later</string>
+		<key>LBResult</key>
+		<string>The list of Hermes stations.</string>
+		<key>LBSummary</key>
+		<string>This action returns a list of Hermes stations.</string>
+		<key>LBTwitter</key>
+		<string>@nriley</string>
+		<key>LBWebsiteURL</key>
+		<string>https://sabi.net/nriley/software/#hermes</string>
+	</dict>
+	<key>LBRequiredApplication</key>
+	<string>com.alexcrichton.Hermes</string>
+	<key>LBRequirements</key>
+	<string>Hermes 1.3.1 or later</string>
+	<key>LBResult</key>
+	<string>The list of Hermes stations.</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.10</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2016 Nicholas Riley</string>
+</dict>
+</plist>
