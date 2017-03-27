@@ -16,6 +16,12 @@
 	<dict>
 		<key>LBAuthor</key>
 		<string>Nicholas Riley</string>
+		<key>LBChangelog</key>
+		<string>
+			1.0: Initial version.
+		</string>
+		<key>LBDownloadURL</key>
+		<string>https://github.com/nriley/LBHermes/releases/download/v1.0/Hermes-Stations-1.0.lbaction</string>
 		<key>LBEmail</key>
 		<string>launchbar@sabi.net</string>
 		<key>LBRequirements</key>
